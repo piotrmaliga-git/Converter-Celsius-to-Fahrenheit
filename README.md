@@ -17,13 +17,13 @@ I created a simple Celsius to Fahrenheit converter. Project is based on HTML, CS
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen1.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen1.png" alt="">
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen2.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen2.png" alt="">
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots.screen3.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen3.png" alt="">
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots.screen4.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen4.png" alt="">
 
 ## Link
 https://piotrmaliga-git.github.io/Converter-Celsius-to-Fahrenheit.github.io/
