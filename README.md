@@ -3,6 +3,7 @@
 I created a simple Celsius to Fahrenheit converter. Project is based on HTML, CSS and JavaScript. Moreover, the website is fully responsive. 
 
 ## Technologies
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" />
@@ -11,10 +12,18 @@ I created a simple Celsius to Fahrenheit converter. Project is based on HTML, CS
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-256.png" />
 
+<br/>
+<br/>
+
 ## Screenshots
 
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen1.png" alt="Hello world">
 
-Please make sure to update tests as appropriate.
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen2.png" alt="Hello world">
+
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots.screen3.png" alt="Hello world">
+
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots.screen4.png" alt="Hello world">
 
 ## Link
 https://piotrmaliga-git.github.io/Converter-Celsius-to-Fahrenheit.github.io/
