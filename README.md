@@ -1,4 +1,4 @@
-# Converter Celsius to Fahrenheit
+# Converter Celsius to Fahrenheit (1.0.0 release)
 
 I created a simple Celsius to Fahrenheit converter. Project is based on HTML, CSS and JavaScript. Moreover, the website is fully responsive. 
 
@@ -24,6 +24,28 @@ I created a simple Celsius to Fahrenheit converter. Project is based on HTML, CS
 <img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen3.png" alt="">
 
 <img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/screen4.png" alt="">
+
+# Developing
+If you want to propose any changes and help me to develop my project, please follow the changes below.
+
+## 🚀 Quick start
+
+1.  **Clone my repository**
+
+```
+git clone  https://github.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io.git
+```
+or if you use a SSH key;
+
+```
+git clone git@github.com:piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io.git
+```
+
+2. **Open your code editor like Visual Studio Code**
+
+3. **Start editing! 😊**
+
+4. **If you want to send me your changes use Pull requests**
 
 ## Link
 https://piotrmaliga-git.github.io/Converter-Celsius-to-Fahrenheit.github.io/

@@ -61,7 +61,12 @@ button:hover {
 }
 
 /* ------> Media queries <------ */
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 500px){ /*Smartphones*/
+  label{
+    font-size: 35px;
+  }
+}
+@media screen and (max-width: 1000px) {/*Bigger screens*/
   button {
     display: flex;
     margin-bottom: 20px;
