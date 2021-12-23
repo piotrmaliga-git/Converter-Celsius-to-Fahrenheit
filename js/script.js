@@ -1,8 +1,8 @@
-const converter = document.querySelector('#converter');
-const result = document.querySelector('.result');
-const convertButton = document.querySelector('.convertButton');
-const resetButton = document.querySelector('.resetButton');
-const changeButton = document.querySelector('.changeButton');
+const input = document.querySelector('.section__input');
+const output = document.querySelector('.section__output');
+const convertButton = document.querySelector('.section__convert-button');
+const resetButton = document.querySelector('.section__reset-button');
+const changeButton = document.querySelector('.section__change-button');
 const C = document.querySelector('.C')
 const F = document.querySelector('.F')
 
@@ -11,37 +11,37 @@ const swap = () => {
         C.innerHTML = '°F';
         F.innerHTML = '°C';
         document.title = "Converter °F to °C";
-        converter.placeholder = "°F";
+        input.placeholder = "°F";
 
     } else {
         F.innerHTML = '°F';
         C.innerHTML = '°C';
         document.title = "Converter °C to °F";
-        converter.placeholder = "°C";
+        input.placeholder = "°C";
     };
 };
 
 const reset = () => {
-    converter.value = '';
-    result.innerHTML = '';
+    input.value = '';
+    output.innerHTML = '';
 }
 
 const convert = () => {
-    if (/^(-?)(\d+)(\.{1}\d+)?$/.test(converter.value)) {
-        result.style.color = "yellow"
+    if (/^(-?)(\d+)(\.{1}\d+)?$/.test(input.value)) {
+        output.style.color = "yellow"
         if (C.innerHTML === '°C') {
-            let value = (converter.value * 1.8) + 32;
-            result.innerHTML = `${converter.value}°C to ${value.toFixed(2)}°F`;
+            let value = (input.value * 1.8) + 32;
+            output.innerHTML = `${input.value}°C to ${value.toFixed(2)}°F`;
         } else {
-            let value = (converter.value - 32) / 1.8;
-            result.innerHTML = `${converter.value}°F to ${value.toFixed(2)}°C`;
+            let value = (input.value - 32) / 1.8;
+            output.innerHTML = `${input.value}°F to ${value.toFixed(2)}°C`;
         }
-    } else if (converter.value == '') {
-        result.style.color = "#993300"
-        result.innerHTML = 'Write correct value!';
+    } else if (input.value == '') {
+        output.style.color = "#993300"
+        output.innerHTML = 'Write correct value!';
     } else {
-        result.style.color = "#993300"
-        result.innerHTML = 'Wrong value!';
+        output.style.color = "#993300"
+        output.innerHTML = 'Wrong value!';
     }
 }
 
