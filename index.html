@@ -21,21 +21,20 @@
 </head>
 
 <body>
-    <header>
-        <label for="converter">Converter <span class="C">°C</span> to <span class="F">°F</span></label>
+    <header class="header">
+        <label class="header__title" for="converter">Converter <span class="C">°C</span> to <span class="F">°F</span></label>
     </header>
-
-    <div>
-        <input type="text" id="converter" placeholder="°C">
-    </div>
-
-    <p class="result"></p>
-
-    <div id="buttons">
-        <button class="convertButton">Convert</button>
-        <button class="resetButton">Reset</button>
-        <button class="changeButton">Change</button>
-    </div>
+    <section class="section">
+        <input class="section_input" type="text" placeholder="°C">
+        
+        <p class="section__output"></p>
+        
+        <div class="section__buttons">
+            <button class="section__convert-button">Convert</button>
+            <button class="section__reset-button">Reset</button>
+            <button class="section__change-button">Change</button>
+        </div>
+    </section>
 </body>
 
 </html>
