@@ -1,7 +1,7 @@
-# Temperature Converter(°C - °F) (2.0.0 release)
+# Temperature Converter (°C - °F) (2.0.0 release)
 
-I have created a Temperature Converter(Celsius - Fahrenheit). Project is based on HTML, CSS/SASS and JavaScript. 
-Styles CSS/SASS were built using BEM methodology. 
+I have created a Temperature Converter (Celsius - Fahrenheit). Project is based on HTML, CSS/Sass and JavaScript. 
+Styles CSS/Sass were built using BEM methodology. 
 Moreover, as the website is fully responsive it gives the opportunity to display the projects on any kind of hardware.
 
 ### The converter capabilities:
@@ -49,12 +49,12 @@ If you want to propose any changes and help me to develop my project, please fol
 1.  **Clone my repository**
 
 ```
-git clone https://github.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.git
+git clone https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit.git
 ```
 if you use a SSH key
 
 ```
-git clone git@github.com:piotrmaliga-git/Converter-Celsius-to-Fahrenheit.git
+git clone git@github.com:piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit.git
 ```
 
 2. **Open your code editor like Visual Studio Code**
@@ -65,6 +65,6 @@ git clone git@github.com:piotrmaliga-git/Converter-Celsius-to-Fahrenheit.git
 
 ## Link
 
-https://piotrmaliga-git.github.io/Converter-Celsius-to-Fahrenheit/
+https://piotrmaliga-git.github.io/Temperature-Converter--Celsius-Fahrenheit/
 
 https://codepen.io/piotrmaliga-git/pen/dyvgGGg
