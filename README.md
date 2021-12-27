@@ -28,17 +28,17 @@ Moreover, as the website is fully responsive it gives the opportunity to display
 
 ## Screenshots
 
-<img src="https://github.com/piotrmaliga-git/My-Best-Photos--Masonry-grid/blob/master/screenshots/s1.png" alt="">
+<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/blob/master/screenshots/s1.png" alt="">
 
-<img src="https://github.com/piotrmaliga-git/My-Best-Photos--Masonry-grid/blob/master/screenshots/s2.png" alt="">
+<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/blob/master/screenshots/s2.png" alt="">
 
-<img src="https://github.com/piotrmaliga-git/My-Best-Photos--Masonry-grid/blob/master/screenshots/s3.png" alt="">
+<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/blob/master/screenshots/s3.png" alt="">
 
-<img src="https://github.com/piotrmaliga-git/My-Best-Photos--Masonry-grid/blob/master/screenshots/s4.png" alt="">
+<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/blob/master/screenshots/s4.png" alt="">
 
-<img src="https://github.com/piotrmaliga-git/My-Best-Photos--Masonry-grid/blob/master/screenshots/s5.png" alt="">
+<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/blob/master/screenshots/s5.png" alt="">
 
-<img src="https://github.com/piotrmaliga-git/My-Best-Photos--Masonry-grid/blob/master/screenshots/s6.png" alt="">
+<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/blob/master/screenshots/s6.png" alt="">
 
 ## Developing
 
