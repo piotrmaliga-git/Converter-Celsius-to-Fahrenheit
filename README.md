@@ -28,17 +28,17 @@ Moreover, as the website is fully responsive it gives the opportunity to display
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/s1.png" alt="">
+<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/tree/master/screenshots/s1.png" alt="">
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/s2.png" alt="">
+<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/tree/master/screenshots/s2.png" alt="">
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/s3.png" alt="">
+<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/tree/master/screenshots/s3.png" alt="">
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/s4.png" alt="">
+<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/tree/master/screenshots/s4.png" alt="">
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/s5.png" alt="">
+<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/tree/master/screenshots/s5.png" alt="">
 
-<img src="https://raw.githubusercontent.com/piotrmaliga-git/Converter-Celsius-to-Fahrenheit.github.io/master/screenshots/s6.png" alt="">
+<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/tree/master/screenshots/s6.png" alt="">
 
 ## Developing
 
@@ -51,8 +51,7 @@ If you want to propose any changes and help me to develop my project, please fol
 ```
 git clone https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit.git
 ```
-if you use a SSH key
-
+if you use a SSH Key Authentication
 ```
 git clone git@github.com:piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit.git
 ```
