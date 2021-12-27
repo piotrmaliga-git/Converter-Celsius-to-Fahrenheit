@@ -28,17 +28,23 @@ Moreover, as the website is fully responsive it gives the opportunity to display
 
 ## Screenshots
 
-<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/tree/master/screenshots/s1.png" alt="">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/ Temperature-Converter--Celsius-Fahrenheit
+/master/screenshots/s1.png" alt="">
 
-<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/tree/master/screenshots/s2.png" alt="">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/ Temperature-Converter--Celsius-Fahrenheit
+/master/screenshots/s2.png" alt="">
 
-<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/tree/master/screenshots/s3.png" alt="">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/ Temperature-Converter--Celsius-Fahrenheit
+/master/screenshots/s3.png" alt="">
 
-<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/tree/master/screenshots/s4.png" alt="">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/ Temperature-Converter--Celsius-Fahrenheit
+/master/screenshots/s4.png" alt="">
 
-<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/tree/master/screenshots/s5.png" alt="">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/ Temperature-Converter--Celsius-Fahrenheit
+/master/screenshots/s5.png" alt="">
 
-<img src="https://github.com/piotrmaliga-git/Temperature-Converter--Celsius-Fahrenheit/tree/master/screenshots/s6.png" alt="">
+<img src="https://raw.githubusercontent.com/piotrmaliga-git/ Temperature-Converter--Celsius-Fahrenheit
+/master/screenshots/s6.png" alt="">
 
 ## Developing
 
