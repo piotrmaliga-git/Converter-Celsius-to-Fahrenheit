@@ -1,0 +1,28 @@
+.section{
+   @include center();
+   &__input{
+      margin: $margin-bigger 0 $margin;
+      padding: 8px;
+      font-size: $input-font-size;
+   }
+   &__output{
+      margin: $margin 0 $margin-bigger;
+      font-size: $output-font-size;
+      color: rgb(255, 255, 102);
+      letter-spacing: 1px;
+      font-weight: bold;
+   }
+   &__buttons{
+      .button{
+         &--convert{
+            @extend %button;
+         }
+         &--reset{
+            @extend %button;
+         }
+         &--change{
+            @extend %button;
+         }
+      }
+   }
+}

@@ -1,0 +1,27 @@
+/*Smartphones*/
+@media screen and (max-width: 600px){
+   .header{
+      &__title{
+         font-size: $header-font-size-smaller;
+      }
+   }
+}
+
+/*Bigger screens*/
+@media screen and (max-width: 850px) {
+   .section__buttons{
+      display: flex;
+      flex-direction: column;
+      .button{
+         &--convert{
+            margin: $margin;
+         }
+         &--reset{
+            margin: $margin;
+         }
+         &--change{
+            margin: $margin;
+         }
+      }
+   }
+}

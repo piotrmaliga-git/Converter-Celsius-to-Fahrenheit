@@ -1,0 +1,20 @@
+%button{
+   width: 200px;
+   margin: 0 30px;
+   padding: 10px 30px;
+   background: none;
+   border: 2px solid $dark-blue;
+   border-radius: 5px;
+   color: $light-blue;
+   font-size: 25px;
+   transition: all 0.4s, box-shadow 0.4s;
+   box-shadow: 3px 3px 10px $dark-blue;
+   text-transform: uppercase;
+}
+
+%button:hover{
+   color: $dark-blue;
+   box-shadow: 3px 3px 10px $light-blue;
+   transition: all 0.4s, box-shadow 0.4s;
+   cursor: pointer;
+}

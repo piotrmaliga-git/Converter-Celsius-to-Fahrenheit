@@ -1,0 +1,6 @@
+body{
+   @include center();
+   font-family: 'Roboto', sans-serif;
+   background-image: linear-gradient(330deg, $dark-blue 10%, $light-blue 80%);
+   height: 100vh;
+}
