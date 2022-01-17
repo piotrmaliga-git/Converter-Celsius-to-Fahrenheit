@@ -1,14 +1,16 @@
 # Temperature Converter (°C - °F) (2.0.0 release)
 
-I have created a Temperature Converter (Celsius - Fahrenheit). Project is based on HTML, CSS/Sass and JavaScript. 
-Styles CSS/Sass were built using BEM methodology. 
+I have created a Temperature Converter (Celsius - Fahrenheit). Project is based on HTML, CSS/Sass and JavaScript. Styles CSS/Sass were built using BEM methodology. 
 Moreover, as the website is fully responsive it gives the opportunity to display the projects on any kind of hardware.
 
 ### The converter capabilities:
 
 - Converts both accurate and negative data.
+
 - Captures incorrectly entered data.
+
 - Accepts no characters other than numbers, except for the period. 
+
 - Attempting to perform a calculation without any data entered results in printing the appropriate error.
 
 ## Technologies
